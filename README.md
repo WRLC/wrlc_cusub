@@ -1,4 +1,4 @@
-Islandora Sub-Theme for Marymount University
+Islandora Sub-Theme for Catholic University
 ----------------------
 
 The base Zen theme is designed to be easily extended by its sub-themes. You
